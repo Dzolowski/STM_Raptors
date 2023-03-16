@@ -1,0 +1,10 @@
+21:43:54 **** Incremental Build of configuration Debug for project gownojebaen ****
+make -j12 all 
+arm-none-eabi-size   gownojebaen.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16004	    120	   1728	  17852	   45bc	gownojebaen.elf
+Finished building: default.size.stdout
+ 
+
+21:43:55 Build Finished. 0 errors, 0 warnings. (took 152ms)
+

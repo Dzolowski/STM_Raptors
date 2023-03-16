@@ -1,0 +1,7 @@
+../Core/Src/stepper.c:29:6:stepper_init	8	static
+../Core/Src/stepper.c:41:6:stepper_speed	24	static
+../Core/Src/stepper.c:57:6:stepper_run	16	static
+../Core/Src/stepper.c:74:6:stepper_pause	8	static
+../Core/Src/stepper.c:81:6:stepper_stop	8	static
+../Core/Src/stepper.c:88:6:stepper_steps	16	static
+../Core/Src/stepper.c:94:6:stepper_rot	16	static
