@@ -1,9 +1,0 @@
-../Core/Src/main.c:75:6:led_set	24	static
-../Core/Src/main.c:83:6:is_button_pressed	16	static
-../Core/Src/main.c:106:5:__io_putchar	24	static
-../Core/Src/main.c:121:6:line_append	32	static
-../Core/Src/main.c:185:5:main	16	static
-../Core/Src/main.c:273:6:SystemClock_Config	96	static
-../Core/Src/main.c:323:13:MX_USART2_UART_Init	8	static
-../Core/Src/main.c:358:13:MX_GPIO_Init	48	static
-../Core/Src/main.c:429:6:Error_Handler	4	static,ignoring_inline_asm
